@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimTest</string>
+    <string name="main_title">SimTest</string>
+    <string name="Question">주위를 둘러보니 숲 속에 있습니다<br />갑자기 뒤에서
+        부스럭거리는 소리가 들려옵니다<br />뒤를 돌아보니 보이는 것은 무엇인가요?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
